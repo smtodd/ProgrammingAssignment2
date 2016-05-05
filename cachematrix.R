@@ -1,5 +1,4 @@
-## These functions calculate the value of a nonsingular matrix and assign
-## it to the variable getinv
+## These functions calculate the value of a nonsingular matrix and store it to memory
 
 ## This function takes as input a matrix 'x' and returns a list that sets the value of the matrix,
 ## gets the value of the matrix, calculates the inverse and assigns it to variable 'i'
